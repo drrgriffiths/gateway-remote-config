@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE411814",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 44.76,
+    "ref_longitude": 0.50,
+    "ref_altitude": 145,
+    "contact_email": "drrgriffiths@hotmail.com",
+    "description": "drrgriffiths gateway ttn"
+  }
+}
